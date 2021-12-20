@@ -6,3 +6,5 @@ Vibrant
 Lato font
 Date and time 
 notification
+Video clips
+Dark mode
